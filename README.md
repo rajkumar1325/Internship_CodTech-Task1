@@ -1,4 +1,3 @@
-# Internship_CodTech-Task1
 Name: RAJ KUMAR
 Company: CODTECH IT SOLUTIONS
 Id: CT12EAZ
