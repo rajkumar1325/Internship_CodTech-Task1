@@ -7,6 +7,8 @@
 
 
 ## Overview of the Project
+![image alt](https://github.com/rajkumar1325/Internship_CodTech-Task1/blob/52690f21da9a6efb3d4a851a2134dc35ff71587e/1start.png))
+
 ### Project: WEATHER FORECAST CHANNEL
 
 ### Objective
