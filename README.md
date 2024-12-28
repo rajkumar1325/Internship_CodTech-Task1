@@ -7,11 +7,11 @@
 
 
 ## Overview of the Project
+
+### Project: WEATHER FORECAST CHANNEL
 ![image alt](https://github.com/rajkumar1325/Internship_CodTech-Task1/blob/52690f21da9a6efb3d4a851a2134dc35ff71587e/1start.png))
 ![image alt](https://github.com/user-attachments/assets/070c8bc6-284e-4757-9207-08b6ea64f227)
 
-
-### Project: WEATHER FORECAST CHANNEL
 
 ### Objective
 The Weather Forecast Web Application is designed to provide real-time weather updates for any city using the OpenWeatherMap API. The application delivers essential weather metrics such as temperature, humidity, and wind speed in an interactive and visually appealing user interface. Its goal is to create a user-friendly platform that simplifies weather information access.
