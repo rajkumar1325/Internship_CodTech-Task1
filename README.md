@@ -29,6 +29,7 @@ The Weather Forecast Web Application is designed to provide real-time weather up
       **HTML:**         Structure of the application.
       **CSS:**          Styling for the application, including animations and responsive design.
       **JavaScript:**   Logic for API integration, user input handling, and dynamic updates.
+      
 **API Integration:**
     **OpenWeatherMap API:** Source of real-time weather data.
     **Hosting:** Can be deployed on platforms like GitHub Pages or Netlify for accessibility.
